@@ -1,0 +1,767 @@
+Angle Given = 0.0150029
+Angle Calcu = 0.0968849
+
+Pedal position = 0.123722
+
+Angle Given = 0.0629856
+Angle Calcu = 0.0969518
+
+Pedal position = 0.123722
+
+Angle Given = 0.0749791
+Angle Calcu = 0.096277
+
+Pedal position = 0.123722
+
+Angle Given = 0.128963
+Angle Calcu = 0.106153
+
+Pedal position = 0.123722
+
+Angle Given = 0.140956
+Angle Calcu = 0.103772
+
+Pedal position = 0.123722
+
+Angle Given = 0.215927
+Angle Calcu = 0.0994932
+
+Pedal position = 0.123722
+
+Angle Given = 0.209934
+Angle Calcu = 0.108416
+
+Pedal position = 0.123722
+
+Angle Given = 0.128963
+Angle Calcu = 0.0983269
+
+Pedal position = 0.123722
+
+Angle Given = 0.0479916
+Angle Calcu = 0.0795482
+
+Pedal position = 0.123722
+
+Angle Given = 0.044991
+Angle Calcu = 0.0678705
+
+Pedal position = 0.123722
+
+Angle Given = 0.0509833
+Angle Calcu = 0.01801
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = 0.0499632
+
+Pedal position = 0.123722
+
+Angle Given = 0.0479916
+Angle Calcu = 0.0206524
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = 0.0392625
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = 0.078236
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = 0.0812886
+
+Pedal position = 0.123722
+
+Angle Given = 0.0599851
+Angle Calcu = 0.0851039
+
+Pedal position = 0.123722
+
+Angle Given = 0.0929737
+Angle Calcu = 0.098455
+
+Pedal position = 0.123722
+
+Angle Given = 0.137956
+Angle Calcu = 0.0983269
+
+Pedal position = 0.123722
+
+Angle Given = 0.137956
+Angle Calcu = 0.0960034
+
+Pedal position = 0.123722
+
+Angle Given = 0.137956
+Angle Calcu = 0.0980154
+
+Pedal position = 0.113407
+
+Angle Given = 0.122962
+Angle Calcu = 0.101182
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.0534294
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.0469431
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.00605848
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0173123
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.0107679
+
+Pedal position = 0.103122
+
+Angle Given = -0
+Angle Calcu = 0.020719
+
+Pedal position = 0.0928068
+
+Angle Given = -0
+Angle Calcu = 0.0143568
+
+Pedal position = 0.0928068
+
+Angle Given = 0.0599851
+Angle Calcu = 0.0151723
+
+Pedal position = 0.0928068
+
+Angle Given = -0
+Angle Calcu = 0.00358514
+
+Pedal position = 0.0928068
+
+Angle Given = -0
+Angle Calcu = 0.0155115
+
+Pedal position = 0.0928068
+
+Angle Given = -0
+Angle Calcu = 0.0250345
+
+Pedal position = 0.0928068
+
+Angle Given = -0
+Angle Calcu = -0.00616225
+
+Pedal position = 0.103122
+
+Angle Given = -0
+Angle Calcu = 0.00673645
+
+Pedal position = 0.103122
+
+Angle Given = -0
+Angle Calcu = 0.00911744
+
+Pedal position = 0.103122
+
+Angle Given = -0
+Angle Calcu = 0.0110768
+
+Pedal position = 0.103122
+
+Angle Given = -0
+Angle Calcu = 0.0135394
+
+Pedal position = 0.103122
+
+Angle Given = -0
+Angle Calcu = 0.0133348
+
+Pedal position = 0.103122
+
+Angle Given = -0
+Angle Calcu = 0.01313
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.0133348
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.018715
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.034979
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.0377105
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.00580254
+
+Pedal position = 0.113407
+
+Angle Given = 0.0329887
+Angle Calcu = 0.0299246
+
+Pedal position = 0.113407
+
+Angle Given = 0.0629856
+Angle Calcu = 0.0771039
+
+Pedal position = 0.113407
+
+Angle Given = 0.0179946
+Angle Calcu = 0.0764559
+
+Pedal position = 0.113407
+
+Angle Given = 0.00900175
+Angle Calcu = 0.0797523
+
+Pedal position = 0.113407
+
+Angle Given = 0.0120023
+Angle Calcu = 0.0738577
+
+Pedal position = 0.113407
+
+Angle Given = 0.0120023
+Angle Calcu = 0.0813051
+
+Pedal position = 0.113407
+
+Angle Given = 0.0239958
+Angle Calcu = 0.0915897
+
+Pedal position = 0.113407
+
+Angle Given = 0.0329887
+Angle Calcu = 0.0885863
+
+Pedal position = 0.113407
+
+Angle Given = 0.0779797
+Angle Calcu = 0.0866773
+
+Pedal position = 0.113407
+
+Angle Given = 0.083972
+Angle Calcu = 0.0842491
+
+Pedal position = 0.113407
+
+Angle Given = 0.0779797
+Angle Calcu = 0.0966498
+
+Pedal position = 0.113407
+
+Angle Given = 0.0779797
+Angle Calcu = 0.094099
+
+Pedal position = 0.113407
+
+Angle Given = 0.0779797
+Angle Calcu = 0.0896038
+
+Pedal position = 0.113407
+
+Angle Given = 0.134955
+Angle Calcu = 0.0962656
+
+Pedal position = 0.113407
+
+Angle Given = 0.185939
+Angle Calcu = 0.0837844
+
+Pedal position = 0.113407
+
+Angle Given = 0.185939
+Angle Calcu = 0.098487
+
+Pedal position = 0.113407
+
+Angle Given = 0.185939
+Angle Calcu = 0.0906093
+
+Pedal position = 0.113407
+
+Angle Given = 0.185939
+Angle Calcu = 0.106203
+
+Pedal position = 0.113407
+
+Angle Given = 0.185939
+Angle Calcu = 0.0969518
+
+Pedal position = 0.113407
+
+Angle Given = 0.185939
+Angle Calcu = 0.0812558
+
+Pedal position = 0.113407
+
+Angle Given = 0.164943
+Angle Calcu = 0.098391
+
+Pedal position = 0.113407
+
+Angle Given = 0.0509833
+Angle Calcu = 0.0612919
+
+Pedal position = 0.113407
+
+Angle Given = 0.0239958
+Angle Calcu = 0.0104589
+
+Pedal position = 0.113407
+
+Angle Given = 0.0239958
+Angle Calcu = 0.0678073
+
+Pedal position = 0.113407
+
+Angle Given = 0.0479916
+Angle Calcu = 0.0528093
+
+Pedal position = 0.113407
+
+Angle Given = 0.101967
+Angle Calcu = 0.0380404
+
+Pedal position = 0.113407
+
+Angle Given = 0.0269964
+Angle Calcu = 0.00911744
+
+Pedal position = 0.113407
+
+Angle Given = 0.101967
+Angle Calcu = 0.0527315
+
+Pedal position = 0.113407
+
+Angle Given = 0.0779797
+Angle Calcu = 0.0366853
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.00746203
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.0196188
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0118427
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0113289
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.0346721
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.0343028
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.0336543
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0300189
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0434975
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0156233
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0406356
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0451117
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0484282
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0443502
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.047445
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0507628
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0114317
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0348811
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.03598
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0395769
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0461183
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0621028
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = -0.023041
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0223821
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = -0.0406356
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0446046
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0503645
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = -0.0385086
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = -0.0445199
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = -0.0327191
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = -0.0158265
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = -0.0304933
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = -0.0185222
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = -0.0387766
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.03303
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = -0.0147075
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0057817
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = -0.00795857
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.0119678
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = -0.0144016
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.0536094
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.044226
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = 0.0870618
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = 0.0804597
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = 0.0993898
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.0901298
+
+Pedal position = 0.113407
+
+Angle Given = 0.218927
+Angle Calcu = 0.0902503
+
+Pedal position = 0.113407
+
+Angle Given = 0.146949
+Angle Calcu = 0.0900494
+
+Pedal position = 0.113407
+
+Angle Given = 0.15295
+Angle Calcu = 0.0882367
+
+Pedal position = 0.113407
+
+Angle Given = 0.290888
+Angle Calcu = 0.0674266
+
+Pedal position = 0.113407
+
+Angle Given = 0.290888
+Angle Calcu = 0.100409
+
+Pedal position = 0.113407
+
+Angle Given = 0.290888
+Angle Calcu = 0.0891532
+
+Pedal position = 0.113407
+
+Angle Given = 0.290888
+Angle Calcu = 0.0801578
+
+Pedal position = 0.113407
+
+Angle Given = 0.290888
+Angle Calcu = 0.104359
+
+Pedal position = 0.123722
+
+Angle Given = 0.290888
+Angle Calcu = 0.0920005
+
+Pedal position = 0.113407
+
+Angle Given = 0.278903
+Angle Calcu = 0.0811075
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.0831888
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.0331427
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0498842
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 7.96327e-05
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0137891
+
+Pedal position = 0.113407
+
+Angle Given = 0.200933
+Angle Calcu = -0.00740635
+
+Pedal position = 0.113407
+
+Angle Given = 0.15595
+Angle Calcu = 0.0164593
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.0439987
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0135847
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0531929
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = -0.044435
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = -0.0425517
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = 7.96327e-05
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = 7.96327e-05
+
+Pedal position = 0.123722
+
+Angle Given = -0
+Angle Calcu = 7.96327e-05
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 7.96327e-05
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0013786
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.0059547
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.00802756
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = -0.01174
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.0106649
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.0126177
+
+Pedal position = 0.113407
+
+Angle Given = -0
+Angle Calcu = 0.0199527
+
+Pedal position = 0.103122
+
+Angle Given = -0
+Angle Calcu = 0.0186144

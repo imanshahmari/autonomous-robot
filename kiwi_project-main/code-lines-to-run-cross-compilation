@@ -1,0 +1,35 @@
+#######################################################################
+# GENERATE THE IMAGE FROM SCRATCH - TAKES A LOT OF TIME!!!
+DOCKER_CLI_EXPERIMENTAL=enabled docker buildx build --platform "linux/arm/v7" -t perception-cones:v0.1.5 --load perception-group1
+
+docker save perception-cones:v0.1.5  > perception-cones:v0.1.5.tar
+
+#######################################################################
+# PULLING THE IMAGE FROM THE REGISTRY THE KIWI-CAR
+
+## TERMINAL FROM LOCAL MACHINE TO CONNECT TO RASPBERRY (TERMINAL 1)
+
+ssh -p 2200 pi@192.168.8.1
+PASSWORD: raspberry
+
+### After the image is transferred
+
+cat perception-cones:v0.1.5.tar | docker load
+
+
+## TERMINAL FROM LOCAL MACHINE (TERMINAL 2) TO TRANSFER THE FILE
+sudo scp -r -P 2200 ./perception-cones:v0.1.5.tar pi@192.168.8.1:./
+
+
+#######################################################################
+# PULLING THE IMAGE FROM THE REGISTRY THE KIWI-CAR
+
+docker login -u pull-kiwi -p glpat-RWwkuWq8krKkit6QRaXk registry.git.chalmers.se/courses/tme290/2022/group1/kiwi_project:v0.0.0 && docker pull registry.git.chalmers.se/courses/tme290/2022/group1/kiwi_project:v0.0.0
+docker image tag registry.git.chalmers.se/courses/tme290/2022/group1/kiwi_project:v0.0.0 perception:v0.0.0
+docker rmi -f registry.git.chalmers.se/courses/tme290/2022/group1/kiwi_project:v0.0.0
+
+glpat-SULz59rzy2FLaGeu6ExQ
+
+docker login -u whatever -p glpat-SULz59rzy2FLaGeu6ExQ registry.git.chalmers.se/courses/tme290/2022/group1/kiwi_project:v0.0.0 && docker pull registry.git.chalmers.se/courses/tme290/2022/group1/kiwi_project:v0.0.0
+
+registry.git.chalmers.se/courses/tme290/2022/group1/kiwi_project:v0.0.0

@@ -1,0 +1,24 @@
+#######################################################################
+# TERMINAL 1 
+
+docker build -t perception .
+#or
+docker build -t perception perception
+
+# New command with flags
+docker run --rm -ti --init --net=host --ipc=host -v /tmp:/tmp -e DISPLAY=$DISPLAY perception-cones:v0.1.1 --cid=111 --name=img.argb --width=1280 --height=720 --bluelow=100,80,40 --bluehi=120,255,255 --yellowlow=16,0,0 --yellowhi=30,255,255 --steeringfactor=0.1 --maxsteering=6.0 --pedalpos=0.1 --crop=0 --bumper=110 --movingavg=0.9 --turnbuffersize=5 --turnbufferthreshold=3
+
+#######################################################################
+# TERMINAL 2
+
+# Enabling connections from any host
+xhost +
+
+# Running microservices
+docker-compose -f h264-replay-viewer.yml up video-h264-replay-amd64
+
+#######################################################################
+# TERMINAL 3
+
+# Getting dataset file to desktop
+docker cp <container name>:/usr/bin/dataset.csv ~/Desktop/dataset.csv

@@ -1,0 +1,27 @@
+#######################################################################
+# TERMINAL 1 
+
+docker build -t perception .
+#or
+docker build -t perception perception
+
+# New command with flags
+docker run --rm -ti --init --net=host --ipc=host -v /tmp:/tmp -e DISPLAY=$DISPLAY perception --cid=111 --name=img.argb --width=1280 --height=720 --bluelow=100,80,40 --bluehi=120,255,255 --yellowlow=16,0,0 --yellowhi=30,255,255 --steeringfactor=0.1 --maxsteering=6.0 --pedalpos=0.1 --crop=0 --bumper=110 --movingavg=0.9 --historybuffersize=10 --yellowturnthres=5 --blueturnthres=5 --pedalposslow=0.0 --verbose --maxhaltingdelay=5
+
+docker run --rm -ti --init --net=host --ipc=host -v /tmp:/tmp -e DISPLAY=$DISPLAY perception-cones:v0.1.5 --cid=140 --name=img.argb --width=1280 --height=720 --bluelow=100,40,15 --bluehi=120,255,255 --yellowlow=16,0,0 --yellowhi=30,255,255 --steeringfactor=0.23 --maxsteering=-1.0 --pedalpos=0.123 --crop=420 --bumper=20 --movingavg=0.9 --historybuffersize=10 --yellowturnthres=8 --pedalposslow=0.123 --blueturnthres=2 --maxhaltingdelay=5
+
+docker run --rm -ti --init --net=host --ipc=host -v /tmp:/tmp -e DISPLAY=$DISPLAY perception --cid=140 --name=img.argb --width=1280 --height=720 --bluelow=110,40,40 --bluehi=120,255,255 --yellowlow=16,0,0 --yellowhi=30,255,255 --steeringfactor=0.23 --maxsteering=-1.0 --pedalpos=0.1 --pedalposslow=0.0 --crop=420 --bumper=20 --movingavg=0.9 --historybuffersize=10 --yellowturnthres=5 --blueturnthres=5 --maxhaltingdelay=5
+#######################################################################
+# TERMINAL 2
+
+# Enabling connections from any host
+xhost +
+
+# Running microservices
+docker-compose -f h264-replay-viewer.yml up video-h264-replay-amd64
+
+#######################################################################
+# TERMINAL 3
+
+# Getting dataset file to desktop
+docker cp <container name>:/usr/bin/dataset.csv ~/Desktop/dataset.csv

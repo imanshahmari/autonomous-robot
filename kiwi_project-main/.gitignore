@@ -1,0 +1,5 @@
+# Folders and files to ignored
+gitpush.sh
+.vscode
+export
+dataset

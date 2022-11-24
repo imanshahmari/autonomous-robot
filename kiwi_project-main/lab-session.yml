@@ -1,0 +1,30 @@
+version: '1'
+
+services:
+
+  camera-rpi-arm:
+    image: chalmersrevere/opendlv-vehicle-view-multi:v0.0.60
+    restart: on-failure
+    network_mode: host
+    ipc: host
+    volumes:
+      - ~/recordings:/opt/vehicle-view/recordings 
+      - /var/run/docker.sock:/var/run/docker.sock
+
+  vehicle-view:
+    image: chalmersrevere/opendlv-vehicle-view-multi:v0.0.60
+    restart: on-failure
+    network_mode: host
+    volumes:
+      - ~/recordings:/opt/vehicle-view/recordings 
+      - /var/run/docker.sock:/var/run/docker.sock
+    
+  perception:
+    image: perception-cc:v0.0.0
+    network_mode: "host"
+    volumes:
+      - /tmp:/tmp
+    ipc: host
+    environment:
+      - DISPLAY=${DISPLAY}
+    command: "/usr/bin/opendlv-logic-test-kiwi --cid=111 --name=img.argb --width=1280 --height=720 --bluelow=110,50,50 --bluehi=130,255,255 --yellowlow=16,0,0 --yellowhi=30,255,255 --steeringfactor=0.1 --verbose"

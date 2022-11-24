@@ -1,0 +1,14 @@
+#######################################################################
+# TERMINAL 1 
+
+docker build -t perception:v1.0.1 ~/TME290/Isolated-repositories/TME290-project/perception
+docker run --rm -ti --init --net=host --ipc=host -v /tmp:/tmp -e DISPLAY=$DISPLAY perception:v1.0.1 --cid=111 --name=img.argb --width=1280 --height=720 --verbose
+
+#######################################################################
+# TERMINAL 2
+
+# Enabling connections from any host
+xhost +
+
+# Running microservices
+docker-compose -f h264-replay-viewer.yml up video-h264-replay-amd64
